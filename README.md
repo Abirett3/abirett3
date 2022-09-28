@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif">
-</p>
 <h2 align="center">Hi there, I'm Abir, also known as Ashfaque Hossain Abir! 👋 </h2>
 <p align="center">
 🔥 I'm a 22 Year's Old Freelance FullStack Web Developer Based in Bangladesh and Learning New Things Everyday. <br>
@@ -39,3 +36,6 @@
     <img alt="Visit Portfolio" src="https://img.shields.io/badge/Visit-Portfolio-brightgreen&style=flat">
   </a>
 </p
+<p align="center">
+<img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+</p>
