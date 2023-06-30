@@ -1,41 +1,21 @@
-<h2 align="center">Hi there, I'm Abir, also known as Ashfaque Hossain Abir! 👋 </h2>
-<p align="center">
-🔥 I'm a 22 Year's Old Freelance FullStack Web Developer Based in Bangladesh and Learning New Things Everyday. <br>
-⚡ My Favourites: HTML, CSS, JavaScript, jQuery, Bootstrap, React, PHP, Laravel, NodeJS, MySQL, MongoDB... <br><br>
-  
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=abirett3&amp;show_icons=true&amp;theme=vue&amp;include_all_commits=true" alt="Abirett&#39;s GitHub stats"></p>
+<h1 align="center">Hi 👋, I'm Ashfaque Hossain Abir</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
 
-<!--  the behance banner
-  <a href="https://www.behance.net/gallery/112507777/Find-Me-on-Google-Mockup-For-Photoshop" target="_blank">
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/cfd7d0112507777.6015ba1b80a5c.png">
-  </a>
- -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=awoladhossain&label=Profile%20views&color=0e75b6&style=flat" alt="awoladhossain" /> </p>
+
+- 🌱 I’m currently learning **Full Stack Development**
+
+- 📫 How to reach me **ashfaquehossainXT@pm.me**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/ashfaquehossain.abir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="awolad hossain" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <a href="https://facebook.com/ashfaquehossain.abir" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white&link=https://facebook.com/ashfaquehossain.abir">
-  </a>
-  
-  <a href="https://twitter.com/ashfaquertc70" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ashfaquertc70">
-  </a>
-  <a href="https://behance.net/abirett" target="_blank">
-    <img src="https://img.shields.io/badge/-Behance-053eff?style=flat&labelColor=053eff&logo=behance&logoColor=white&link=https://behance.net/abirett">
-  </>
-  <a href="mailto:ashfaquehossain300@gmail.com?subject=Hello Dear Ashfaque Hossain Abir! I send this message from your Github Profile. I need to talk to you!" target="_blank">
-    <img src="https://img.shields.io/badge/-Mail Me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:a.ashfaquehossain300@gmail.com">
-  </a>
-  <a href="https://github.com/abirett3" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/abirett3?label=Github&style=flat">
-  </a>
-  <a href="https://github.com/abirett3" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=abirett3&label=Views&color=brightgreen&style=flat" alt="abirett3" />
-  </a>
-  <a href="https://abirett3.github.io" target="_blank">
-    <img alt="Visit Portfolio" src="https://img.shields.io/badge/Visit-Portfolio-brightgreen&style=flat">
-  </a>
-</p
-<p align="center">
-<img src="https://static.dribbble.com/users/730703/screenshots/6581243/avento.gif">
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abirett3&show_icons=true&locale=en&layout=compact" alt="abirett3" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abirett3&show_icons=true&locale=en" alt="abirett3" /></p>
